@@ -9,7 +9,7 @@ This repository contains the code for a joystick with a rain sensor on the back 
 - PWM fan
 
 ## Circuit Diagram
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram Rain Sensor](https://images.app.goo.gl/RSTKBPJMKFULxBVX9)
 
 ## Installation
 1. Clone this repository to your local machine or download the ZIP file.
